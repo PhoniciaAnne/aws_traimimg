@@ -1,1 +1,1 @@
-# aws_traimimg
+# aws_training
